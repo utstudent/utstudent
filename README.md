@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utstudent
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Java and the Spring Framework
+- 🌱 I’m currently learning the Java Spring Framework
 - 📫 How to reach me talhakaran@gmail.com
 
 <!---

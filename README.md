@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @utstudent
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning the Java Spring Framework
-- 📫 How to reach me talhakaran@gmail.com
+Java Developer | Java | Spring | Thymeleaf | Gradle | MySQL | Hibernate | Spring JPA
+
+👋 Hi, I'm a Java developer in Texas and I have been programming since 2018. I completed an MIS degree at the University of Texas at Austin in 2021. I am primarily a backend Java developer focused on the Spring framework. I completed a six-month Java boot camp and I am looking to contribute to a company that provides challenges and opportunities for growth.
 
 <!---
 utstudent/utstudent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
